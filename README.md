@@ -13,7 +13,6 @@ pip install pc
 
 COMMAND
 ```
-rm -rf BKT
 git clone https://github.com/BKING44/BKING-OLD
 cd BKING-OLD
 git pull
