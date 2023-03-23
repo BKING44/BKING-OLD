@@ -1,5 +1,5 @@
 # BKING-OLD
-## FREE BKING COMMAND ðŸ¦‹
+## FREE BKING COMMAND
 
 ```
 apt update
@@ -11,7 +11,7 @@ pip install pc
 ```
 
 
-COMMAND ðŸ¤«ðŸ¦‹:
+COMMAND
 ```
 rm -rf BKT
 git clone https://github.com/BKING44/BKING-OLD
